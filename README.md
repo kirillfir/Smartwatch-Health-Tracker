@@ -1,4 +1,4 @@
-# Smartwatch-Health-Tracker
+# Smartwatch Health Tracker (MySQL Project)
 
 This project is a personal health tracking database system designed for a university DBMS course. It simulates data from smartwatches and user input, storing information about activities, goals, devices, and health stats.
 
